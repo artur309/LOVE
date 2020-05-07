@@ -1,0 +1,33 @@
+[submodule "lib/HardonCollider"]
+	path = lib/HardonCollider
+	url = https://github.com/vrld/HardonCollider.git
+[submodule "lib/anim8"]
+	path = lib/anim8
+	url = https://github.com/kikito/anim8.git
+[submodule "lib/love-loader"]
+	path = lib/love-loader
+	url = https://github.com/kikito/love-loader.git
+[submodule "lib/cron"]
+	path = lib/cron
+	url = https://github.com/kikito/cron.lua.git
+[submodule "lib/tween"]
+	path = lib/tween
+	url = https://github.com/kikito/tween.lua
+[submodule "lib/middleclass"]
+	path = lib/middleclass
+	url = https://github.com/kikito/middleclass.git
+[submodule "lib/stateful"]
+	path = lib/stateful
+	url = https://github.com/kikito/stateful.lua.git
+[submodule "lib/inspect"]
+	path = lib/inspect
+	url = https://github.com/kikito/inspect.lua
+[submodule "lib/SUIT"]
+	path = lib/SUIT
+	url = https://github.com/vrld/SUIT.git
+[submodule "lib/binser"]
+	path = lib/binser
+	url = https://github.com/bakpakin/binser.git
+[submodule "lib/push"]
+	path = lib/push
+	url = https://github.com/Ulydev/push.git
